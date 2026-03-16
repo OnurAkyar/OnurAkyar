@@ -67,4 +67,4 @@ The goal is to build an AI model capable of understanding and solving university
 
 ## 📫 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/onur-akyar-a9361029a/))](LINKEDIN_LINK)
+[![LinkedIn](https://www.linkedin.com/in/onur-akyar-a9361029a/)](LINKEDIN_LINK)
